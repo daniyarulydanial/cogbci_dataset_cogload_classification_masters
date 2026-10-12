@@ -1,0 +1,9 @@
+{
+  "n_rows": 32737,
+  "n_ch": 10,
+  "memmap_dtype": "float32",
+  "memmap_size_MB": 12.488174438476562,
+  "sym_max_sample": 0.0,
+  "min_eig_sample": 1.3955657918347797e-13,
+  "n_recompute_failures": 0
+}
