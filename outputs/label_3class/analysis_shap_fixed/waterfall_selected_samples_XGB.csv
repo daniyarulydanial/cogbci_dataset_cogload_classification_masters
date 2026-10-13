@@ -1,0 +1,4 @@
+class,fold,sample_idx,prob_true,y_true,y_pred,figure_path
+0,21,740,0.9975084066390991,0,0,C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\features\loso_results\label_3class\2025-12-28_05-59-04\analysis_shap_fixed\waterfall_class0_fold21_sample740_XGB.png
+1,2,929,0.9966687560081482,1,1,C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\features\loso_results\label_3class\2025-12-28_05-59-04\analysis_shap_fixed\waterfall_class1_fold2_sample929_XGB.png
+2,25,48,0.9990623593330383,2,2,C:\Users\User\Jupyter projects\eeg-analysis\cog_bci\features\loso_results\label_3class\2025-12-28_05-59-04\analysis_shap_fixed\waterfall_class2_fold25_sample48_XGB.png
